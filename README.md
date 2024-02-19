@@ -11,7 +11,7 @@ This was developed in HTML and CSS, so no installation is required and the websi
 ## Usage
 This website informs you on the web and marketing services Horiseon provides to their customers. 
 
-![horiseon website]('assets/images/website-screenshot.png')
+![Horiseon Website Preview]('https://github.com/irtiza-S/horiseon-marketing-agency/blob/main/assets/images/website-screenshot.png')
 
 ## License
 Distributed under the MIT License. See LICENSE for more information. 
