@@ -11,7 +11,7 @@ This was developed in HTML and CSS, so no installation is required and the websi
 ## Usage
 This website informs you on the web and marketing services Horiseon provides to their customers. 
 
-![website preview]<img width="1280" alt="website-screenshot" src="https://github.com/irtiza-S/horiseon-marketing-agency/assets/61486852/4ba0f3a0-a41d-4c4a-accb-4a528b11e63c">
+<img width="1280" alt="website-screenshot" src="https://github.com/irtiza-S/horiseon-marketing-agency/assets/61486852/4ba0f3a0-a41d-4c4a-accb-4a528b11e63c">
 
 
 
